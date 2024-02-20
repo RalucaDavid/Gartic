@@ -12,8 +12,6 @@ A recreation of the [Gartic](https://gartic.io) ([Skribbl](https://skribbl.io)) 
   </li>
 </ul>
 
-# Presentation
-
 # Team 
 [David Raluca](https://github.com/RalucaDavid) \
 [Geană Andrei](https://github.com/Andrei-Geana) \
