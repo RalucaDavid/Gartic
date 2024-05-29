@@ -12,6 +12,30 @@ A recreation of the [Gartic](https://gartic.io) ([Skribbl](https://skribbl.io)) 
   </li>
 </ul>
 
+# Features
+<ul>
+  <li><strong>Login/Register:</strong>
+    <ul>
+      <li>Users can create a new account or log in to an existing one to access the game.</li>
+    </ul>
+  </li>
+  <li><strong>Menu:</strong>
+    <ul>
+      <li><strong>Profile View:</strong> Users can access their profile to see their personal information and match history.</li>
+      <li><strong>Join Room:</strong> Users can join an existing room by entering a specific code.</li>
+      <li><strong>Create Room:</strong> Users can create their own room, choosing the desired difficulty level.</li>
+    </ul>
+  </li>
+  <li><strong>Gameplay:</strong>
+    <ul>
+      <li><strong>Drawing and Guessing:</strong> Similar to Scribble, one player draws a word on the screen while the others try to guess it through the chat.</li>
+      <li><strong>Hints:</strong> Hints from the word will appear periodically throughout the game to assist the players in guessing.</li>
+      <li><strong>Score Tracking:</strong> Players can view the scores of all participants during the game.</li>
+      <li><strong>Leaderboard:</strong> At the end of the game, a leaderboard will display the final rankings of the players.</li>
+    </ul>
+  </li>
+</ul>
+
 # Team 
 [David Raluca](https://github.com/RalucaDavid) \
 [Geană Andrei](https://github.com/Andrei-Geana) \
